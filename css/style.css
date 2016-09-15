@@ -91,3 +91,9 @@ box-shadow: 0 0 7px 1px #FFFFFF;
             transform: rotateZ(360deg) translate3d(0, 1.5%, 0) rotateZ(-360deg);
   }
 }
+@media only screen and (max-device-width: 768px){
+  .txt{
+    padding-top: 110%;
+    padding-left: 20%;
+  }
+}
